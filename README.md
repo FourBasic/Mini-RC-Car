@@ -31,6 +31,8 @@ Need a cleaner power supply or some larger capacitors.
 Kind of frankenstein. Waiting for signal loss issues to be resolved before continuing.
 
 ![image](https://github.com/FourBasic/Mini-RC-Car/assets/79863927/ee2c598b-711b-4c9c-892e-e12f4d0367b1)
+![IMG20231014110517](https://github.com/FourBasic/Mini-RC-Car/assets/79863927/32c52886-17f7-47ea-9245-11e1626b4917)
+
 
 
 
