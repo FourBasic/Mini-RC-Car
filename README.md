@@ -8,6 +8,7 @@ x2 3.7V Li-Po in series for 7.4V powersupply
 
 Mini servo for steering
 
+
 ********** STATUS **********
 
 ** Mechanical **
