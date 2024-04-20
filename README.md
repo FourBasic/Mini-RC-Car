@@ -1,8 +1,11 @@
 Ongoing Project
 
 Seeeduino Nano V1.1
+
 NRF24L01 2.4GHZ Transceiver
+
 x2 3.7V Li-Po in series for 7.4V powersupply
+
 Mini servo for steering
 
 ********** STATUS **********
