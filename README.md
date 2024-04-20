@@ -9,6 +9,8 @@ Mini servo for steering
 
 ** Mechanical **
 
+https://cad.onshape.com/documents/e87949ba530811d2f375ed48/w/98c0c2ad23e823fa44da40b9/e/68d5f4717c4295865db398bf
+
 Slop in front end - parts are just too small for tight tolerances - try switching to 0.2mm nozzle
 Absolutely useless with PLA tires. Working on TPU tires.
 
